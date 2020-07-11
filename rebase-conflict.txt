@@ -1,7 +1,14 @@
 line 1 by github
 line 2 by github
+<<<<<<< HEAD
 line three by github
 line 4 by github
 line five by github
 (not from github this is from local)
 
+=======
+line 3 by github
+line 4 by github
+line 5 by github
+(not from github this is from local)
+>>>>>>> 998fda79b69f1582ed5cb375a57a69a87b7a632d
